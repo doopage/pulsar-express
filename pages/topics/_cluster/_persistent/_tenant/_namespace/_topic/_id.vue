@@ -305,7 +305,7 @@
             v-model="resetSubscriptionInfo.timestamp"
             type="datetime"
             placeholder="Pick a Date"
-            format="yyyy/MM/DD hh:mm:ss"
+            format="yyyy/MM/dd hh:mm:ss"
           />
         </el-form-item>
         <el-form-item>
